@@ -1,2 +1,2 @@
 # math-matrix
-A cslculator app.
+A A simple calculator list app built with HTML, CSS, and JavaScript.
